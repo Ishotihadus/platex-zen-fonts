@@ -1,0 +1,80 @@
+
+% TEXT, 90JIS
+hminl-h	H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+hminl-v	V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+hminr-h	H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+hminr-v	V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+hminb-h	H	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+hminb-v	V	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+hgothr-h	H	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+hgothr-v	V	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+hgothb-h	H	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+hgothb-v	V	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+hgotheb-h	H	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+hgotheb-v	V	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+hmgothr-h	H	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+hmgothr-v	V	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+
+% TEXT, JIS04
+hminln-h	H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+hminln-v	V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+hminrn-h	H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+hminrn-v	V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+hminbn-h	H	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+hminbn-v	V	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+hgothrn-h	H	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+hgothrn-v	V	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+hgothbn-h	H	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+hgothbn-v	V	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+hgothebn-h	H	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+hgothebn-v	V	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+hmgothrn-h	H	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+hmgothrn-v	V	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+
+% CID
+otf-cjml-h	Identity-H	ZenOldMincho-Regular.ttf/AJ16 %!PS ZenOldMincho-Regular
+otf-cjml-v	Identity-V	ZenOldMincho-Regular.ttf/AJ16 %!PS ZenOldMincho-Regular
+otf-cjmr-h	Identity-H	ZenOldMincho-Regular.ttf/AJ16 %!PS ZenOldMincho-Regular
+otf-cjmr-v	Identity-V	ZenOldMincho-Regular.ttf/AJ16 %!PS ZenOldMincho-Regular
+otf-cjmb-h	Identity-H	ZenOldMincho-Bold.ttf/AJ16 %!PS ZenOldMincho-Bold
+otf-cjmb-v	Identity-V	ZenOldMincho-Bold.ttf/AJ16 %!PS ZenOldMincho-Bold
+otf-cjgr-h	Identity-H	ZenKakuGothicNew-Medium.ttf/AJ16 %!PS ZenKakuGothicNew-Medium
+otf-cjgr-v	Identity-V	ZenKakuGothicNew-Medium.ttf/AJ16 %!PS ZenKakuGothicNew-Medium
+otf-cjgb-h	Identity-H	ZenKakuGothicNew-Bold.ttf/AJ16 %!PS ZenKakuGothicNew-Bold
+otf-cjgb-v	Identity-V	ZenKakuGothicNew-Bold.ttf/AJ16 %!PS ZenKakuGothicNew-Bold
+otf-cjge-h	Identity-H	ZenKakuGothicNew-Black.ttf/AJ16 %!PS ZenKakuGothicNew-Black
+otf-cjge-v	Identity-V	ZenKakuGothicNew-Black.ttf/AJ16 %!PS ZenKakuGothicNew-Black
+otf-cjmgr-h	Identity-H	ZenMaruGothic-Regular.ttf/AJ16 %!PS ZenMaruGothic-Regular
+otf-cjmgr-v	Identity-V	ZenMaruGothic-Regular.ttf/AJ16 %!PS ZenMaruGothic-Regular
+
+% Unicode 90JIS
+otf-ujml-h	UniJIS-UTF16-H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+otf-ujml-v	UniJIS-UTF16-V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+otf-ujmr-h	UniJIS-UTF16-H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+otf-ujmr-v	UniJIS-UTF16-V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+otf-ujmb-h	UniJIS-UTF16-H	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+otf-ujmb-v	UniJIS-UTF16-V	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+otf-ujgr-h	UniJIS-UTF16-H	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+otf-ujgr-v	UniJIS-UTF16-V	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+otf-ujgb-h	UniJIS-UTF16-H	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+otf-ujgb-v	UniJIS-UTF16-V	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+otf-ujge-h	UniJIS-UTF16-H	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+otf-ujge-v	UniJIS-UTF16-V	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+otf-ujmgr-h	UniJIS-UTF16-H	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+otf-ujmgr-v	UniJIS-UTF16-V	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+
+% Unicode JIS04
+otf-ujmln-h	UniJIS2004-UTF16-H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+otf-ujmln-v	UniJIS2004-UTF16-V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+otf-ujmrn-h	UniJIS2004-UTF16-H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+otf-ujmrn-v	UniJIS2004-UTF16-V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+otf-ujmbn-h	UniJIS2004-UTF16-H	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+otf-ujmbn-v	UniJIS2004-UTF16-V	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+otf-ujgrn-h	UniJIS2004-UTF16-H	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+otf-ujgrn-v	UniJIS2004-UTF16-V	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+otf-ujgbn-h	UniJIS2004-UTF16-H	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+otf-ujgbn-v	UniJIS2004-UTF16-V	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+otf-ujgen-h	UniJIS2004-UTF16-H	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+otf-ujgen-v	UniJIS2004-UTF16-V	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+otf-ujmgrn-h	UniJIS2004-UTF16-H	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+otf-ujmgrn-v	UniJIS2004-UTF16-V	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular

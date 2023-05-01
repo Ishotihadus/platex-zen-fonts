@@ -1,0 +1,32 @@
+
+% TEXT, 90JIS
+uphminl-h	UniJIS-UTF16-H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+uphminl-v	UniJIS-UTF16-V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+uphminr-h	UniJIS-UTF16-H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+uphminr-v	UniJIS-UTF16-V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+uphminb-h	UniJIS-UTF16-H	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+uphminb-v	UniJIS-UTF16-V	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+uphgothr-h	UniJIS-UTF16-H	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+uphgothr-v	UniJIS-UTF16-V	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+uphgothb-h	UniJIS-UTF16-H	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+uphgothb-v	UniJIS-UTF16-V	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+uphgotheb-h	UniJIS-UTF16-H	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+uphgotheb-v	UniJIS-UTF16-V	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+uphmgothr-h	UniJIS-UTF16-H	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+uphmgothr-v	UniJIS-UTF16-V	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+
+% TEXT, JIS04
+uphminln-h	UniJIS2004-UTF16-H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+uphminln-v	UniJIS2004-UTF16-V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+uphminrn-h	UniJIS2004-UTF16-H	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+uphminrn-v	UniJIS2004-UTF16-V	ZenOldMincho-Regular.ttf %!PS ZenOldMincho-Regular
+uphminbn-h	UniJIS2004-UTF16-H	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+uphminbn-v	UniJIS2004-UTF16-V	ZenOldMincho-Bold.ttf %!PS ZenOldMincho-Bold
+uphgothrn-h	UniJIS2004-UTF16-H	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+uphgothrn-v	UniJIS2004-UTF16-V	ZenKakuGothicNew-Medium.ttf %!PS ZenKakuGothicNew-Medium
+uphgothbn-h	UniJIS2004-UTF16-H	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+uphgothbn-v	UniJIS2004-UTF16-V	ZenKakuGothicNew-Bold.ttf %!PS ZenKakuGothicNew-Bold
+uphgothebn-h	UniJIS2004-UTF16-H	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+uphgothebn-v	UniJIS2004-UTF16-V	ZenKakuGothicNew-Black.ttf %!PS ZenKakuGothicNew-Black
+uphmgothrn-h	UniJIS2004-UTF16-H	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
+uphmgothrn-v	UniJIS2004-UTF16-V	ZenMaruGothic-Regular.ttf %!PS ZenMaruGothic-Regular
